@@ -9,3 +9,5 @@ Projeto Flutter para interpolação de código Golang
 ## Gerar código dart
 
 `flutter pub run ffigen`
+
+### Test no Linux OK
